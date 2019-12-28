@@ -29,3 +29,10 @@ These services are:
 - loanService the default is http://localhost:8000/LoanService/V1/
 - exchangeRateService the default is http://localhost:8881/api/v1/exchange/
 
+# Web Interface
+
+This is how it looks like:
+
+![InternetBanking](https://user-images.githubusercontent.com/18471537/71545489-a51d0180-299c-11ea-82e3-82af6ab94a60.jpeg)
+
+And as you can see every widgen get the data from different source i.e. micro-services and if it is down, then this widget is only un-functionaly and the rest will resume working.
