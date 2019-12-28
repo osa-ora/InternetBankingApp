@@ -33,6 +33,6 @@ These services are:
 
 This is how it looks like:
 
-![InternetBanking](https://user-images.githubusercontent.com/18471537/71545489-a51d0180-299c-11ea-82e3-82af6ab94a60.jpeg)
+![InternetBanking](https://user-images.githubusercontent.com/18471537/71548532-c7287b00-29c0-11ea-9e4d-71315af2bda0.jpeg)
 
 And as you can see every widgen get the data from different source i.e. micro-services and if it is down, then this widget is only un-functionaly and the rest will resume working.
