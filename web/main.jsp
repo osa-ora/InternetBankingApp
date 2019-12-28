@@ -19,7 +19,7 @@ if(session.getAttribute("CUSTOMER")!=null) {
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Acme Internet Banking - Contact us</title>
+        <title>Acme Internet Banking - Main Menu</title>
         <link rel="stylesheet" href="css/w3.css">
         <link rel='stylesheet' href='css/style.css'>
         <link rel='stylesheet' href='css/style2.css'>
